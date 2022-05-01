@@ -2,20 +2,28 @@
 <h3 align="center">A passionate devops and cloud engineer</h3>
 <p align="center"> “Strive not to be a success, but rather to be of value” </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=moez-rt&label=Profile%20views&color=0e75b6&style=flat" alt="moez-rt" /> </p>
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=moez-rt&label=Profile%20views&color=0e75b6&style=flat" alt="moez-rt" />
+ <img src="https://badges.pufler.dev/repos/moez-rt" alt="moez-rt" />
+	<img src="https://img.shields.io/github/followers/moez-rt?label=Followers" alt="moez-rt" />
+</p>
 
 
-- 🔭 I’m currently working as Software Engineer in Paris [for Wintics](https://wintics.com/)
+- 🔭 I’m currently working [for Wintics](https://wintics.com/) as Software Engineer based in Paris 
 
 - 🌱 I’m currently learning **Kubernetes and Ansible**
 
-- 👨‍💻 All of my projects are available at [moezsaidi.me](moezsaidi.me)
+- 👨‍💻 You can check my portfolio at [moezsaidi.me](moezsaidi.me)
 
 - 💬 Ask me about **Python, Django, AWS**
 
 - 📫 How to reach me **saidi.moez.2014@gmail.com**
 
+- :nerd_face: Always `learning new things`
+
 - ⚡ Fun fact **I like bugs where I have no idea how to fix them**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,3 +38,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moez-rt&show_icons=true&locale=en" alt="moez-rt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moez-rt&" alt="moez-rt" /></p>
+
+### :trophy: Git profile Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moez-rt&layout=compact&theme=algolia" alt="Moez Saidi" /></a> </p>
+
