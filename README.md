@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working at [Wintics](https://wintics.com/) as Software Engineer.
 
-- 🌱 I’m currently learning **Terraform**
+- 🌱 I’m currently learning **Kubernetes**
 
-- 🚀 I use daily: **Python, Django, Docker, Kubernetes**
+- 🚀 My daily tasks involve **Python, Django, Docker, Ansible**
 
 - :nerd_face: Always `learning new things`
 
