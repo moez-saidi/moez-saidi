@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moez</h1>
-<h3 align="center">A passionate devops and cloud engineer</h3>
+<h3 align="center">A passionate DevOps and cloud engineer</h3>
 <p align="center"> “Strive not to be a success, but rather to be of value” </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working at [Wintics](https://wintics.com/) as Software Engineer.
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Terraform**
 
 - 🚀 My daily tasks involve **Python, Django, Docker, Ansible**
 
